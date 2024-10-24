@@ -1,0 +1,26 @@
+C:\Users\0030482413014\source\repos\PLoops\PLoops\bin\Debug\PLoops.exe.config
+C:\Users\0030482413014\source\repos\PLoops\PLoops\bin\Debug\PLoops.exe
+C:\Users\0030482413014\source\repos\PLoops\PLoops\bin\Debug\PLoops.pdb
+C:\Users\0030482413014\source\repos\PLoops\PLoops\obj\Debug\PLoops.csproj.AssemblyReference.cache
+C:\Users\0030482413014\source\repos\PLoops\PLoops\obj\Debug\PLoops.Form1.resources
+C:\Users\0030482413014\source\repos\PLoops\PLoops\obj\Debug\PLoops.Properties.Resources.resources
+C:\Users\0030482413014\source\repos\PLoops\PLoops\obj\Debug\PLoops.csproj.GenerateResource.cache
+C:\Users\0030482413014\source\repos\PLoops\PLoops\obj\Debug\PLoops.csproj.CoreCompileInputs.cache
+C:\Users\0030482413014\source\repos\PLoops\PLoops\obj\Debug\PLoops.exe
+C:\Users\0030482413014\source\repos\PLoops\PLoops\obj\Debug\PLoops.pdb
+C:\Users\0030482413014\source\repos\PLoops\PLoops\obj\Debug\PLoops.frmExercicio3.resources
+C:\Users\0030482413014\source\repos\PLoops\PLoops\obj\Debug\PLoops.frmExercicio2.resources
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\bin\Debug\PLoops.exe.config
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\bin\Debug\PLoops.exe
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\bin\Debug\PLoops.pdb
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\obj\Debug\PLoops.csproj.AssemblyReference.cache
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\obj\Debug\PLoops.Form1.resources
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\obj\Debug\PLoops.frmExercicio1.resources
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\obj\Debug\PLoops.frmExercicio2.resources
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\obj\Debug\PLoops.frmExercicio3.resources
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\obj\Debug\PLoops.Properties.Resources.resources
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\obj\Debug\PLoops.csproj.GenerateResource.cache
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\obj\Debug\PLoops.csproj.CoreCompileInputs.cache
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\obj\Debug\PLoops.exe
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\obj\Debug\PLoops.pdb
+C:\Users\kauaf\OneDrive\Área de Trabalho\PLoops\PLoops\obj\Debug\PLoops.frmExercicio4.resources
